@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @A1Kumari
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development
 - 📫 How to reach me 
      you can send me a mail on the mail Id aryakumari3953@gmail.com
 
