@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Arya Kumari</h1>
+<h3 align="center">Passionate web developer | Machine Learning Enthusiast</h3>
+
+
 # 💫 About Me:
 🌱 I’m currently learning Data Science and Machine learning<br><br>👯 I’m looking to collaborate on OpenSource Projects<br><br>👨‍💻 All of my projects are available on My Portfolio<br><br>📫 How to reach me aryakumari3953@gmail.com<br><br>⚡ Fun fact you have to be odd to be number one. 
 
