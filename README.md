@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Kumari</h1>
-<h3 align="center">Passionate web developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Passionate web developer | Data Science Enthusiast</h3>
 
 
 # 💫 About Me:
