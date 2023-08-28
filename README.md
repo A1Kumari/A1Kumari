@@ -23,14 +23,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=A1Kumari&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=A1Kumari&icon=0&color=1)](https://visitcount.itsvg.in)
-
-i want to update it and make it more interesting and cool so its fasicantes people to look 
-View other drafts
 
 
 
@@ -51,30 +43,3 @@ View other drafts
 
 
 
-
-
-
-Sure, here are some ideas on how you can upgrade your GitHub profile README file to make it more interesting and engaging:
-
-Add a personal touch by including a short bio about yourself, your interests, and your goals.
-Use images and GIFs to break up the text and make your README more visually appealing.
-Add links to your social media profiles, portfolio, and any other relevant websites.
-Use a consistent style and formatting throughout your README.
-Proofread your README carefully before making it public.
-Here are some specific examples of what you could add to your README:
-
-A short bio about yourself, your interests, and your goals. For example, you could say something like:
-I'm Arya Kumari, a passionate web developer and data science enthusiast. I'm currently learning Python and machine learning, and I'm excited to use my skills to build cool things. In my free time, I enjoy hiking, reading, and spending time with my family.
-
-A link to your portfolio website. This is a great way to show potential employers or collaborators your work.
-A link to your GitHub profile. This is where people can see your code, projects, and other contributions to open source.
-A list of your skills and experience. This could include programming languages, frameworks, and technologies that you're familiar with.
-A list of your goals. This could include things like learning new technologies, contributing to open source, or starting your own business.
-A few fun facts about yourself. This is a great way to make your README more personal and memorable.
-Here are some additional tips for writing a great GitHub profile README:
-
-Keep it concise and to the point. No one wants to read a long, rambling README.
-Use clear and concise language. Avoid jargon and technical terms that your audience might not understand.
-Be specific and measurable. Don't just say that you're a "good programmer." Instead, say something like "I can build a web application in Django in less than 2 weeks."
-Proofread your README carefully before making it public. Typos and grammatical errors will make you look unprofessional.
-I hope these ideas help you upgrade your GitHub profile README file. Good luck!
