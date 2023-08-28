@@ -1,3 +1,13 @@
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>
+</h1>
+<br>
+<p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
+I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
+This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
+Today, the sun rose at <b>06:50 AM</b> and sets at <b>08:08 PM</b>. 
+As of <b>08:09 AM MST </b> the temperature is <b>68.0°F</b> 👌😄.</p>
+
 <h1 align="center">Hi 👋, I'm Arya Kumari</h1>
 <h3 align="center">Passionate web developer | Data Science Enthusiast</h3>
 
